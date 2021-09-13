@@ -2,7 +2,9 @@
 My thesis of Master's degree in Data Science for Management @UniCT about Deep Learning, title "Federated Transfer Learning using Network Composition"
 
 ## Description
-I will edit this repository until 11 Sep. 2021, which is the deadline of the thesis. I will also upload the pdf file of the thesis with all the code.
+In this thesis, is proposed a new technique of Federated Trans- fer Learning (FTL), a special case of FL, in which two datasets differ in the feature space. This can be applied to different datasets but similar in their nature, e.g. data collected from companies in the same sector, but with differences in the nature of business. These enterprises, also physically far in the world, share only a small over- lap in feature space, and their datasets differ both in samples and in feature space. Our proposed method aims to address the limitations of existing federated learning approaches, and leveraging transfer learning to provide solutions for the entire sample and feature space under a federation. The general idea of our proposed method is to combine the weights of two different neural networks trained on two different machines and datasets, but similar in their nature, and check how the performances change after the aggregation.
+The experiments and the drafting of the thesis has been carried out together with my colleague of Management Engineering Alessio Barbaro Chisari, under the supervision of Prof. Sebastiano Battiato and Prof. Valerio Giuffrida, a Lecturer in Data Science at Edinburgh Napier University. In particular, it was expected a period of stay in Scotland at the Edinburgh Napier University, however it was not possible due to the CoViD-19 limitations.
+
 
 ## Dataset
 I have used MNIST and SVHN
